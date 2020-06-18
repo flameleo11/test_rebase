@@ -1,5 +1,5 @@
 var print = console.log
-var ver = "3";
+var ver = "4";
 
 function main() {
 	print(ver)
